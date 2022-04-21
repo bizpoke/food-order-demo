@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbc664af3cb395e7412b",
-    "url": "/food-order-demo/css/app.2dc58625.css"
+    "revision": "dced3f47cbdc03e176ef",
+    "url": "/food-order-demo/css/app.1e5188f8.css"
   },
   {
     "revision": "feed561cd108ea9cd2b6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/food-order-demo/img/koi-banner.87e51755.png"
   },
   {
-    "revision": "c862f7bf5545ca3d1d9f417c06c5a873",
+    "revision": "74af7cb72cb60c8bb57a59e7fe2e3c8d",
     "url": "/food-order-demo/index.html"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/food-order-demo/js/about.5ef2c3e2.js"
   },
   {
-    "revision": "fbc664af3cb395e7412b",
-    "url": "/food-order-demo/js/app.954cf716.js"
+    "revision": "dced3f47cbdc03e176ef",
+    "url": "/food-order-demo/js/app.c158d8a6.js"
   },
   {
     "revision": "feed561cd108ea9cd2b6",
